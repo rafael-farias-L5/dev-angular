@@ -1,4 +1,4 @@
-# Desenvolverdor Front-End Angular
+# Desenvolvedor Front-End Angular
 
 Olá,<br>
 Obrigado pelo interesse em integrar a nossa equipe.
